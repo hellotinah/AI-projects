@@ -309,9 +309,11 @@ Finally, there's a version of the app that you can use to compare GPT-4o with GP
 ```
 ollama pull llava:7b
 ```
-
 Then run the bake-off app with:
 
 ```
 shiny run app_bakeoff.py --port 0 --launch-browser
 ```
+
+Credit to the amazing Kaouthar Bousbaa for implementation help: https://www.linkedin.com/in/kaouthar-b-38b569146/
+Credit to the legendary Joe Cheng for video assistant: https://www.linkedin.com/in/jcheng/
