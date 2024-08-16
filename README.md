@@ -258,7 +258,6 @@ To run the project:
 Make sure to use a valid OpenAI key and a valid Huggingface API key.
 
 # Video Assistant
-# Multimodal demo
 
 This repo contains a Jupyter notebook that demonstrates simulating video input and audio output against GPT-4o, using OpenAI's API.
 
@@ -315,5 +314,6 @@ Then run the bake-off app with:
 shiny run app_bakeoff.py --port 0 --launch-browser
 ```
 
-Credit to the amazing Kaouthar Bousbaa for implementation help: https://www.linkedin.com/in/kaouthar-b-38b569146/
-Credit to the legendary Joe Cheng for video assistant: https://www.linkedin.com/in/jcheng/
+### Credit to the amazing Kaouthar Bousbaa for implementation help: https://www.linkedin.com/in/kaouthar-b-38b569146/
+
+### Credit to the legendary Joe Cheng for video assistant: https://www.linkedin.com/in/jcheng/
