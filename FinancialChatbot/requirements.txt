@@ -1,0 +1,8 @@
+flask
+langchain
+langchain-community
+huggingface_hub
+faiss-cpu
+langchain-huggingface
+transformers
+langchain-openai

@@ -1,0 +1,8 @@
+**/.ipynb_checkpoints
+__pycache__/
+venv/
+.venv/
+/.env
+.DS_Store
+Thumbs.db
+ehthumbs.db
